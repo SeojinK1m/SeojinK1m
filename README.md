@@ -5,3 +5,4 @@
 - 🌱 interested in efficient algorithms, machine learning, and econometrics. [let's talk!](https://www.linkedin.com/in/seojin-kim-35080918a/)
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeojinK1m&show_icons=true&theme=calm&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeojinK1m)](https://github.com/anuraghazra/github-readme-stats)
